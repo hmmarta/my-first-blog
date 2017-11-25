@@ -26,7 +26,7 @@ SECRET_KEY = 'lv6-i%f_42v9bv=unk*vh%+9fdd3#&4fjbmsh4-^+__@$@2$bs'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-                '<hmmarta>.pythonanywhere.com'
+                'hmmarta.pythonanywhere.com'
 ]
 
 
